@@ -1,0 +1,4 @@
+.venv
+naip_data/
+data
+buildings.geojson
