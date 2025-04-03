@@ -2,3 +2,5 @@
 naip_data/
 data
 buildings.geojson
+*.tif
+*.geojson
